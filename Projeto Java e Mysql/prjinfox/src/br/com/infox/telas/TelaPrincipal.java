@@ -164,7 +164,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(63, 63, 63)
                         .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 226, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(15, Short.MAX_VALUE))
+                .addContainerGap(104, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -184,7 +184,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
                         .addGap(36, 36, 36))))
         );
 
-        setSize(new java.awt.Dimension(855, 514));
+        setSize(new java.awt.Dimension(944, 514));
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
